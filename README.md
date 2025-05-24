@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/AdityaHalder/Aditya-Player"><img src="https://graph.org/file/918101d0ad6b1207e6201.png" height="270" width="480" alt="Genius-Userbot"/></a>
+<a href="https://github.com/oopohgfgihigugvu/Aditya-Player"><img src="https://graph.org/file/918101d0ad6b1207e6201.png" height="270" width="480" alt="Genius-Userbot"/></a>
 </p>
 
 <p align="center">
